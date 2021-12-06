@@ -1,1 +1,12 @@
+title: BrikMentionの広場
+name: BrikMentionの広場
+url: https://BrikMention.github.io
+img_dir: /assets/img
+logo: /assets/img/logo.jpg
+keep_files: [assets]
+sass:
+  sass_dir: /assets/css/_sass
+plugins:
+  - jekyll-sitemap
+
 theme: jekyll-theme-hacker
