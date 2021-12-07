@@ -1,6 +1,8 @@
 title: BrikMentionの広場
 name: BrikMentionの広場
 author: BrikMention
+description: 自作の作品などを保管する広場
+show_downloads: "true"
 url: https://BrikMention.github.io
 img_dir: /assets/img
 logo: /assets/img/logo.jpg
@@ -11,4 +13,5 @@ plugins:
   - jekyll-sitemap
 
 theme: jekyll-theme-hacker
+google_analytics: 295841008
 google_analytics: UA-295841008
